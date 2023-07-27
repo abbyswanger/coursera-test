@@ -7,10 +7,8 @@
     }
 
     h1 {
-       margin-bottom: 15px;
-    text-align: center;
-    color: #ff4362;
-    font-size: 35px;
+            text-align: center;
+            font-size: 2.5em;
     }
 
     section {
@@ -34,7 +32,7 @@
         margin-bottom: auto;
     }
 
-    .sub1 {
+    .chicken {
         float: right;
         width: 100px;
         padding: 5px;
@@ -47,7 +45,7 @@
 
     }
 
-    .sub2 {
+    .beef {
         float: right;
         color: red;
         width: 100px;
@@ -61,7 +59,7 @@
 
     }
 
-    .sub3 {
+    .sushi {
         color: blue;
         float: right;
         width: 100px;
