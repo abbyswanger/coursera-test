@@ -15,7 +15,9 @@ h1 {
 	margin-left: auto;
 	margin-top: 20px;
 	margin-bottom: 10px;
-	border: 10px black;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
 	position: relative;
 	width: 25%;
 	float: left;
@@ -24,10 +26,12 @@ h1 {
 .box2 {
 	background-color: lightgreen;
 	margin-right: 0 auto;
-	margin-left: 0 auto;
+	margin-left: -20px;
 	margin-top: 20px;
 	margin-bottom: 10px;
-	border: 10px black;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
 	position: relative;
 	width: 25%;
 	float: left;
@@ -39,7 +43,9 @@ h1 {
 	margin-left: auto;
 	margin-top: 20px;
 	margin-bottom: 10px;
-	border: 10px black;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
 	position: relative;
 	width: 25%;
 	float: right;
