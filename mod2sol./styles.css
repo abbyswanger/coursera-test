@@ -49,10 +49,14 @@ header.title {
 
 #cn {
   background-color:blue;color:white
+	float: left;
+    width: 47%;
 }
 
 #bf {
   background-color:pink;color:white;
+	float: right;
+    width: 47%;
 }
 
 #si {
