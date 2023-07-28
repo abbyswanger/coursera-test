@@ -3,9 +3,6 @@
   font-family: Stencil Std, fantasy;
   font-size:100%;
 }
-  .row{
-    width: 100%;
-  }
 
 h1 {
   text-align: center;
@@ -57,3 +54,6 @@ header.title {
 #si {
   background-color:purple;color:white
 }
+
+.row {
+  width: 100%;
