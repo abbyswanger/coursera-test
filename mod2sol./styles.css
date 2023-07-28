@@ -9,9 +9,6 @@ h1 {
   font-size: 2.5em;
 }
 
-/*add flexbox style*/ 
-display: flex;
-
 .box {
 	background-color: lightgreen;
 	margin-right: auto;
@@ -22,6 +19,7 @@ display: flex;
 	position: relative;
 	width: 25%;
 	float: left;
+	display: flex;
 }
 
 
