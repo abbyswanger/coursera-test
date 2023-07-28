@@ -21,7 +21,7 @@ h1 {
 	margin-bottom: 10px;
 	position: relative;
 	border: 1px white;
-	width: 90%;
+	width: 60%;
 }
 
 
@@ -45,16 +45,13 @@ header.title {
 
 #cn {
   background-color:blue;color:white
-	margin-top: 40px;
 }
 
 #bf {
   background-color:pink;color:white;
-	margin-top: 40px;
 }
 
 #si {
   background-color:yellow;color:white
-	  margin-top: 40px;
 }
 
