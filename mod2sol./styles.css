@@ -1,13 +1,13 @@
 * {
   box-sizing: border-box;
   font-family: Stencil Std, fantasy;
-  font-size:400%;
+  font-size:100%;
 
 }
 
 h1 {
   text-align: center;
-  font-size: 12em;
+  font-size: 2em;
 }
 
 
@@ -15,30 +15,30 @@ h1 {
 	background-color: red;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 70px;
-	margin-bottom: 50px;
+	margin-top: 20px;
+	margin-bottom: 30px;
 	position: relative;
-	border: 5px solid black;
-	width: 200%;
+	border: 2px solid black;
+	width: 50%;
 }
 
 
 p {
   margin-right: auto;
   margin-left: auto;
-  margin-top: 70px;
-  width: 200%;
+  margin-top: 20px;
+  width: 50%;
 }
 
 header.title {
 	position: absolute;
     top: 0px;
     right: 0px;
-    height: 25px;
-    width: 100px;
-    border: 20px solid black;
+    height: 30px;
+    width: 200px;
+    border: 2px solid black;
     text-align: center;
-    font-size:5em;
+    font-size:2em;
 }
 
 #chicken {
