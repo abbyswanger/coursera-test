@@ -1,33 +1,33 @@
 * {
   box-sizing: border-box;
   font-family: Stencil Std, fantasy;
-  font-size:120%;
+  font-size:400%;
 
 }
 
 h1 {
   text-align: center;
-  font-size: 4em;
+  font-size: 12em;
 }
 
 
 .box {
-	background-color: green;
+	background-color: red;
 	margin-right: auto;
 	margin-left: auto;
-	margin-top: 30px;
-	margin-bottom: 20px;
+	margin-top: 70px;
+	margin-bottom: 50px;
 	position: relative;
-	border: 2px solid black;
-	width: 90%;
+	border: 5px solid black;
+	width: 200%;
 }
 
 
 p {
   margin-right: auto;
   margin-left: auto;
-  margin-top: 30px;
-  width: 90%;
+  margin-top: 70px;
+  width: 200%;
 }
 
 header.title {
@@ -36,19 +36,19 @@ header.title {
     right: 0px;
     height: 25px;
     width: 100px;
-    border: 1px solid black;
+    border: 20px solid black;
     text-align: center;
-    font-size:1.2em;
+    font-size:5em;
 }
 
 #chicken {
-  background-color:red;
+  background-color:blue;
 }
 
 #beef {
-  background-color:yellow;
+  background-color:blue;
 }
 
 #sushi {
-  background-color:green;
+  background-color:blue;
 }
