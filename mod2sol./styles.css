@@ -47,13 +47,16 @@ header.title {
 
 #cn {
   background-color:blue;color:white
+	float:left;
 }
 
 #bf {
   background-color:pink;color:white;
+	float:left;
 }
 
 #si {
   background-color:purple;color:white
+	float:left;
 }
 
