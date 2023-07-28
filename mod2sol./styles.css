@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
-  font-family: Sans-serif;
-  font-size:100%;
+  font-family: Stencil Std, fantasy;
+  font-size:150%;
 
 }
 
@@ -12,14 +12,14 @@ h1 {
 
 
 .box {
-	background-color: lightgrey;
+	background-color: lightblue;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	position: relative;
-	border: 1px solid black;
-	width: 90%;
+	border: 2px solid black;
+	width: 100%;
 }
 
 
@@ -27,7 +27,7 @@ p {
   margin-right: auto;
   margin-left: auto;
   margin-top: 30px;
-  width: 90%;
+  width: 100%;
 }
 
 header.title {
@@ -42,13 +42,13 @@ header.title {
 }
 
 #chicken {
-  background-color:lightpink;
+  background-color:black;color:white
 }
 
 #beef {
-  background-color:maroon;color:white;
+  background-color:pink;color:white;
 }
 
 #sushi {
-  background-color:lightyellow;
+  background-color:white;color:black
 }
