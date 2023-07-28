@@ -23,8 +23,8 @@ h1 {
 
 .box2 {
 	background-color: lightgreen;
-	margin-right: 20px;
-	margin-left: 20px;
+	margin-right: auto;
+	margin-left: auto;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	border: 2px black;
