@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   font-family: Stencil Std, fantasy;
-  font-size:70%;
+  font-size:100%;
 
 }
 
@@ -12,13 +12,13 @@ h1 {
 
 
 .box {
-	background-color: yellow;
+	background-color: black;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	position: relative;
-	border: 2px white;
+	border: 1px white;
 	width: 90%;
 }
 
@@ -36,26 +36,20 @@ header.title {
     right: 0px;
     height: 25px;
     width: 100px;
-    border: 2px white;
+    border: 1px white;
     text-align: center;
     font-size:1.2em;
 }
 
 #cn {
   background-color:blue;color:white
-	height: 100px;
-	width: 25%
 }
 
 #bf {
-  background-color:pink;color:white
-	height: 100px;
-	width: 25%
+  background-color:pink;color:white;
 }
 
 #si {
   background-color:white;color:black
-	height: 100px;
-	width: 25%
 
 }
