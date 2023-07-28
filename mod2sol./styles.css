@@ -43,13 +43,19 @@ header.title {
 
 #cn {
   background-color:blue;color:white
+	height: 200px;
+	width: 50%
 }
 
 #bf {
-  background-color:pink;color:white;
+  background-color:pink;color:white
+	height: 200px;
+	width: 50%
 }
 
 #si {
   background-color:white;color:black
+	height: 200px;
+	width: 50%
 
 }
