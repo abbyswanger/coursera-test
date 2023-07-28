@@ -19,6 +19,9 @@ h1 {
 	border: 2px black;
 	position: relative;
 	width: 25%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+
 }
 
 
