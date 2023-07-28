@@ -21,6 +21,7 @@ h1 {
 	margin-bottom: 10px;
 	border: 2px black;
 	position: relative;
+	padding-right: 10px;
 	width: 25%;
 	float:left;
 }
