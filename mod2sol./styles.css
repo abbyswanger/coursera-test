@@ -20,9 +20,6 @@ h1 {
 	position: relative;
 	width: 25%;
 	float: left;
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-
 }
 
 
