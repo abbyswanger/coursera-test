@@ -21,6 +21,18 @@ h1 {
 	float: left;
 }
 
+.box2 {
+	background-color: lightgreen;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	border: 2px black;
+	position: relative;
+	width: 25%;
+	float: right;
+}
+
 
 p {
   margin-right: auto;
