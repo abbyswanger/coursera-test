@@ -12,7 +12,7 @@ h1 {
 
 
 .box {
-	background-color: #ffffe0;
+	background-color: yellow;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 20px;
@@ -54,7 +54,7 @@ header.title {
 }
 
 #si {
-  background-color:green;color:black
+  background-color:white;color:black
 	height: 100px;
 	width: 25%
 
