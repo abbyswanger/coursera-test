@@ -1,4 +1,10 @@
-* {
+*
+    <style>
+      div {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: clip;
+{
   box-sizing: border-box;
   font-family: Stencil Std, fantasy;
   font-size:100%;
