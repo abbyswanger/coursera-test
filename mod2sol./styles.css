@@ -73,15 +73,15 @@ header.title {
     font-size:1.2em;}
 
 #cn {
-  background-color:blue;color:white
+  background-color:blue;color:black
 }
 
 #bf {
-  background-color:pink;color:white;
+  background-color:pink;color:black;
 }
 
 #si {
-  background-color:purple;color:white
+  background-color:purple;color:black
 }
 
 .row {
