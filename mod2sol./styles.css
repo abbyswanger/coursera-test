@@ -10,7 +10,7 @@ h1 {
 }
 
 .box {
-	background-color: lightgreen;
+	background-color: grey;
 	margin-right: auto;
 	margin-left: 100px;
 	margin-top: 20px;
@@ -24,9 +24,9 @@ h1 {
 }
 
 .box2 {
-	background-color: lightgreen;
+	background-color: grey;
 	margin-right: 0 auto;
-	margin-left: 150px;
+	margin-left: 125px;
 	margin-top: 20px;
 	margin-bottom: 10px;
 	border-style:solid;
@@ -38,7 +38,7 @@ h1 {
 }
 
 .box3 {
-	background-color: lightgreen;
+	background-color: grey;
 	margin-right: 100px;
 	margin-left: auto;
 	margin-top: 20px;
