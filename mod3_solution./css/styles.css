@@ -11,7 +11,7 @@
   
   body{
     font-size: 18px;
-    background-color: lightgrey;
+    background-color: white;
     font-family: "Lucida Console", "Courier New", monospace;
     margin: 0;
   }
@@ -26,7 +26,7 @@
     font-family: Stencil Std, fantasy;
     font-size: 75px;
     font-weight: bold;
-    color: white;
+    color: black;
   }
     
   
@@ -55,7 +55,7 @@
   div.category-tile{
     position: relative;
     overflow: hidden;
-    background-color:lightgrey;
+    background-color: lightgrey;
   }
   
   .category-tile span{
