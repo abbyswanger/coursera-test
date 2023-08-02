@@ -1,62 +1,88 @@
-           body {
-                            font-size: 16px;
-                            font-family: 'Oxygen', sans-serif;
-                        }
-                        /** HEADER **/
-                        
-                        #header-nav {
-                            background-color: grey;
-                            border-radius: 0;
-                        }
-                        
-                        .navbar-header,
-                        .navbar-brand p {
-                            color: black;
-                            font-size: 1.5em;
-                            font-weight: bold;
-                            margin-top: 10px;
-                        }
-                        
-                        .navbar-header,
-                        .navbar-brand a {
-                            text-decoration: none;
-                        }
-                        
-                        #nav-list {
-                            margin-top: 10px;
-                            position: relative;
-                        }
-                        
-                        #nav-list a {
-                            color: black;
-                            text-align: center;
-                        }
-                        
-                        #nav-list a:hover {
-                            color: white;
-                        }
-                        
-                        .navbar-header button.navbar-toggle,
-                        .navbar-header .icon-bar {
-                            border: 1px solid #ada9ab;
-                        }
-                        
-                        .text {
-                            border: 1px solid black;
-                            padding: 20px;
-                            height: 1000px;
-                            width: auto;
-                            margin-top: 25px;
-                            background-color: gray;
-                            text-decoration: none;
-                        }
-                        
-                        .text p {
-                            color: black;
-                            text-decoration: none;
-                        }
-                        
-                        .text-center {
-                            color: black;
-                            text-decoration: none;
-                        }
+   * {
+  box-sizing: border-box;
+  font-family: Stencil Std, fantasy;
+  font-size:100%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.box {
+	background-color: grey;
+	margin-right: auto;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
+	position: relative;
+	width: 25%;
+	float: left;
+}
+
+.box2 {
+	background-color: grey;
+	margin-right: 0 auto;
+	margin-left: 100px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
+	position: relative;
+	width: 25%;
+	float: left;
+}
+
+.box3 {
+	background-color: grey;
+	margin-right: 100px;
+	margin-left: auto;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
+	position: relative;
+	width: 25%;
+	float: right;
+}
+
+
+p {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+  width: 90%;
+	padding: 25px;
+}
+
+header.title {
+	position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 25px;
+    width: 100px;
+	border-style:solid;
+	border-width: 3px;
+	border-color: black;
+    text-align: center;
+    font-size:1.2em;}
+
+#cn {
+  background-color:blue;color:black
+}
+
+#bf {
+  background-color:pink;color:black;
+}
+
+#si {
+  background-color:purple;color:black
+}
+
+.row {
+  width: 100%;
