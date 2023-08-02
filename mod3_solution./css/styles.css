@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    font-family: Stencil Std, fantasy;
+    font-size:100%;
   }
   
   a{
@@ -10,7 +12,7 @@
   body{
     font-size: 18px;
     background-color: lightgrey;
-    font-family: 'Oxygen', sans-serif;
+    font-family: Stencil Std, fantasy;
     margin: 0;
   }
   
@@ -20,20 +22,19 @@
      border-radius: 0px;
   }
   
-.navbar-inverse a.navbar-brand{ /*Food LLC name*/
-    font-family: 'Lora', serif;
-    font-size: 30px;
+.navbar-inverse a.navbar-brand{ /*Food LLC*/
+    font-family: Stencil Std, fantasy;
+    font-size: 200px;
     font-weight: bold;
     color: white;
   }
     
   
-  /*main-content*/
   .container{
     width: 100%;
     color: black;
     height: 90%;
-    padding: 0;
+    padding: 5;
     display: block;
     margin: 0 auto;
   }
@@ -44,7 +45,7 @@
     margin-top: 10px;
     margin-bottom: 30px;
     font-weight: bold;
-    color: #222;
+    color: #000000;
   }
   
   .row{
@@ -54,8 +55,7 @@
   div.category-tile{
     position: relative;
     overflow: hidden;
-    background-color: #a2ace5;
-    transition: all 0.3s;
+    background-color:lightgrey;
   }
   
   .category-tile span{
@@ -75,6 +75,6 @@
     position: relative;
     top: 30px;
     left: 20px;
-    font-family: sans-serif;
-    color: white;
+    font-family: Stencil Std, fantasy;
+    color: black;
   }
