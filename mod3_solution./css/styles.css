@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    font-family: Stencil Std, fantasy;
+    font-family: "Lucida Console", "Courier New", monospace;
     font-size:100%;
   }
   
@@ -12,7 +12,7 @@
   body{
     font-size: 18px;
     background-color: lightgrey;
-    font-family: Stencil Std, fantasy;
+    font-family: "Lucida Console", "Courier New", monospace;
     margin: 0;
   }
   
@@ -24,7 +24,7 @@
   
 .navbar-inverse a.navbar-brand{ /*Food LLC*/
     font-family: Stencil Std, fantasy;
-    font-size: 200px;
+    font-size: 75px;
     font-weight: bold;
     color: white;
   }
@@ -75,6 +75,6 @@
     position: relative;
     top: 30px;
     left: 20px;
-    font-family: Stencil Std, fantasy;
+    font-family: "Lucida Console", "Courier New", monospace;
     color: black;
   }
